@@ -1,5 +1,5 @@
 
-# HTML & CSS PROJECT 4 Digital Marketing Landingpage ![Project badge](https://img.shields.io/badge/PROJECT%204-HTML%20%26%20CSS-orange)
+# HTML & CSS PROJECT 5 Crypto Homepage ![Project badge](https://img.shields.io/badge/PROJECT%205-HTML%20%26%20CSS-orange)
 
 I have created many websites using __*WordPress*__ but This is the first ever website I have written code from scratch using `HTML&CSS` only.
 
@@ -8,13 +8,13 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 ### Screenshot :
 ---
 
->![Project 3 Screenshot](website%20thumbnail.png)
+>![Project 5 Screenshot](website%20thumbnail.png)
 
 
 ### Live Preview :
 ---
 
-[![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://digital-marketing-landingpage.netlify.app/)
+[![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://crypto-homepage.netlify.app/)
 
 
 ### Things i have learned working on this project :
@@ -31,7 +31,7 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 ### Time took to finish the project :
 ---
 
-It took me 3 hours to finish this project.
+It took me 4 hours to finish this project.
 
 ### About Me :
 ---
